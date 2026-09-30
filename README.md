@@ -1,1 +1,2 @@
-# exemplo3-cont-turma-a
+# exemplo3-turmaA
+Expansão do CRUD e validação
